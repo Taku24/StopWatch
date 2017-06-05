@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">stopWatch2</string>
+
+    <string name="stop">stop</string>
+    <string name="atari">あたり！！</string>
+    <string name="hazure">はずれ。。。</string>
+</resources>
